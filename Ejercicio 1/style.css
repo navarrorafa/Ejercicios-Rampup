@@ -1,0 +1,36 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.modelo {
+
+    color: green ;
+    
+
+}
+
+h2 {
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline black wavy;
+    word-spacing: 30px;
+    text-shadow: 3px 3px 1px black;
+
+}
+
+h3 {
+    text-decoration: overline;
+    writing-mode: vertical-lr;
+    text-align: center;
+    
+}
+
+form {
+    border: 1px solid blue;
+    border-radius: 10px;
+    height: 250px;
+    width: 500px;
+    padding: 20px;
+}
